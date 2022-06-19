@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/dorianthompson/NASAMissionControl/issues"
   },
-  "homepage": "https://github.com/dorianthompson/NASAMissionControl#readme"
+  "homepage": "https://github.com/dorianthompson/NASAMissionControl#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
